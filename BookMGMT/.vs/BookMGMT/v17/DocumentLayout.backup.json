@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\lenovo\\source\\repos\\bookmgmt\\bookmgmt\\pages\\bookedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\pages\\bookedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\lenovo\\source\\repos\\bookmgmt\\bookmgmt\\pages\\bookedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\pages\\bookedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\lenovo\\source\\repos\\bookmgmt\\bookmgmt\\pages\\bookdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\pages\\bookdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\lenovo\\source\\repos\\bookmgmt\\bookmgmt\\pages\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\pages\\booklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\lenovo\\source\\repos\\bookmgmt\\bookmgmt\\pages\\bookadd.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\pages\\bookadd.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\lenovo\\source\\repos\\bookmgmt\\bookmgmt\\pages\\bookadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\pages\\bookadd.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|c:\\users\\lenovo\\source\\repos\\bookmgmt\\bookmgmt\\pages\\booklist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325F3648-D673-4EC8-8197-257C4A194369}|BookMGMT\\BookMGMT.csproj|solutionrelative:bookmgmt\\pages\\booklist.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookAdd.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\BookMGMT\\Pages\\BookAdd.cshtml.cs",
+              "RelativeDocumentMoniker": "BookMGMT\\Pages\\BookAdd.cshtml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\BookMGMT\\Pages\\BookAdd.cshtml.cs",
+              "RelativeToolTip": "BookMGMT\\Pages\\BookAdd.cshtml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T17:24:53.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookEdit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\BookMGMT\\Pages\\BookEdit.cshtml.cs",
+              "RelativeDocumentMoniker": "BookMGMT\\Pages\\BookEdit.cshtml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\BookMGMT\\Pages\\BookEdit.cshtml.cs*",
+              "RelativeToolTip": "BookMGMT\\Pages\\BookEdit.cshtml.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:50:24.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\BookMGMT\\Pages\\BookEdit.cshtml",
+              "RelativeDocumentMoniker": "BookMGMT\\Pages\\BookEdit.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\BookMGMT\\Pages\\BookEdit.cshtml",
+              "RelativeToolTip": "BookMGMT\\Pages\\BookEdit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T16:14:46.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookAdd.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\BookMGMT\\Pages\\BookAdd.cshtml",
+              "RelativeDocumentMoniker": "BookMGMT\\Pages\\BookAdd.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\BookMGMT\\Pages\\BookAdd.cshtml",
+              "RelativeToolTip": "BookMGMT\\Pages\\BookAdd.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T16:47:49.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookList.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\BookMGMT\\Pages\\BookList.cshtml.cs",
+              "RelativeDocumentMoniker": "BookMGMT\\Pages\\BookList.cshtml.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\BookMGMT\\Pages\\BookList.cshtml.cs",
+              "RelativeToolTip": "BookMGMT\\Pages\\BookList.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T16:25:47.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\BookMGMT\\Pages\\BookDelete.cshtml",
+              "RelativeDocumentMoniker": "BookMGMT\\Pages\\BookDelete.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\BookMGMT\\Pages\\BookDelete.cshtml",
+              "RelativeToolTip": "BookMGMT\\Pages\\BookDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T16:15:29.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookList.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\BookMGMT\\Pages\\BookList.cshtml",
+              "RelativeDocumentMoniker": "BookMGMT\\Pages\\BookList.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\BookMGMT\\BookMGMT\\Pages\\BookList.cshtml",
+              "RelativeToolTip": "BookMGMT\\Pages\\BookList.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T16:08:42.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
